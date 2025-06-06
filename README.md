@@ -1,0 +1,1 @@
+0.1.5 - Pack made by maciaz. Redesigned skill icons and some major UI. As of now it should support resizable classic and modern. Does not support fixed classic yet.
